@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Trial Master",
+    "description": "nothing to see here yet",
+    "version": "1.0",
+    "action": {
+      "default_popup": "",
+      "default_icon": ""
+    }
+  }
